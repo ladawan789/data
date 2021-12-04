@@ -1,0 +1,10 @@
+	แผนก		ผู้รับผิดชอบ		Target (จำนวนชิ้น/วัน)		Actual (จำนวนชิ้น/วัน)		คิดเป็น % เทียบกับเป้าหมาย	เฉลี่ย Incomr Per Head/คน	เฉลี่ยค่าแรงงานพนักงาน/วัน	Ratio Income per head:ค่าแรง	RM	Ratio Man
+Line CNC A		K.Sirisak	41,620			42,092			98.9%		454.40	 		366 		1.24				72%	3.9
+Line CNC B		K.Buratda	24077			23857			100.9%		785.05	 		414 		1.90				63%	2.8
+Line Pipe Denso		K.Tassanee	36353			40531			89.7%		1,428.70	 	568 		2.52				55%	3.2
+Line Steel pipe		K.Sarawut	19842			20706			95.8%		1,630.75	 	476 		3.43				65%	3.3
+Line Stamping		K.Wittaya	19842			20706			95.8%		1,630.70	 	423 		0.00				70%	2.0
+Line Pipe Hanon		K.Pairuch	40920			42097			97.2%		1,891.53	 	366 		5.17				65%	2.8
+Line Pipe Keihin	K.Sutee		40920			42097			97.2%		1,891.53	 	535 		0.00				57%	3.3
+Line Pipe Air Inter	K.Patcharapol	40920			42097			97.2%		1,891.53	 	365 		0.00				60%	2.1
+Total All				264,494			274,183			103.7%		773.80		 	3,513 		0.22				65%	2.8
